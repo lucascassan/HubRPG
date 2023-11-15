@@ -1,8 +1,0 @@
-object ArduinoNFCView: TArduinoNFCView
-  Left = 661
-  Height = 344
-  Top = 469
-  Width = 617
-  Caption = 'ArduinoNFCView'
-  LCLVersion = '2.0.10.0'
-end
